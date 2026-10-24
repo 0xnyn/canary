@@ -22,7 +22,7 @@
     "playwright": "1.58.2",
     "playwright-core": "1.58.2",
     "quickjs-emscripten": "^0.32.0",
-    "zod": "3.25.76"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@usecanary/config": "workspace:*",
@@ -30,6 +30,6 @@
     "esbuild": "^0.27.4",
     "tsx": "^4.20.0",
     "typescript": "^5.8.0",
-    "vitest": "^4.1.0"
+    "vitest": "^5.0.5"
   }
 }

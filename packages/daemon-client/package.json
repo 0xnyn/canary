@@ -29,6 +29,6 @@
     "@usecanary/daemon": "workspace:*",
     "@types/node": "^20.17.10",
     "typescript": "^5.8.0",
-    "vitest": "^4.1.0"
+    "vitest": "^5.0.5"
   }
 }
